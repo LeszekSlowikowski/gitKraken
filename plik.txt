@@ -3,3 +3,5 @@ Zmiana w gałęzi master i Zmiana na gałęzi g001
 Pierwsza zmiana na gałęzi master
 Pierwsza zmiana na gałęzi g002
 Druga zmiana na gałęzi g002
+Zmiana, która trochę trwa i potrzebuję czasu na jej skończenie
+A tu szef niecnota mi przerywa
